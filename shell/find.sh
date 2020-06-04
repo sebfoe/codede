@@ -59,5 +59,5 @@ do
 	scp -i /path/to/key.txt -r remote@ip_remote:${array[i]} /destination
 done
 #######################################################################
-
+# 
 
