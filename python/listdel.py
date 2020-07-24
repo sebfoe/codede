@@ -3,10 +3,9 @@
 """
 Created on Wed Jul 22 13:31:50 2020
 
-@author: sef35id
+read, filter an delete multiple scenes
 
-read, filter an delete products, solving S2-L2A/p scene issue on CODE-DE
-
+0.1
 
 """
 
